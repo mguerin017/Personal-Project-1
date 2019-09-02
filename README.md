@@ -32,7 +32,7 @@
 
 Week:
 
-1-3.      Step 1: Play & Edit Mode (2-3 hours a week)
-4-6.      Step 2: Game Objects & Components (2-3 hours a week)
-7-9.      Step 3: Tweaking Components (2-3 hours a week)
-10-12. Step 4: Prefab Power (2-3 hours a week)
+-   1-3.      Step 1: Play & Edit Mode (2-3 hours a week)
+-  4-6.      Step 2: Game Objects & Components (2-3 hours a week)
+-  7-9.      Step 3: Tweaking Components (2-3 hours a week)
+-  10-12. Step 4: Prefab Power (2-3 hours a week)
