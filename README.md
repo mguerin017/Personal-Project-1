@@ -3,7 +3,7 @@
 ### Goals
 
 -   Complete the Unity Interactive Tutorials
--   Complete additiona tutorials to gain a firm understanding of the program
+-   Complete additional tutorials to gain a firm understanding of the program
 -   Create a simple game in Unity
 
 ### Boundaries / Scope
