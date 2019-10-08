@@ -15,7 +15,7 @@
 
 -   Have a decent understanding of how to use the Unity engine
 -   Screenshots and logs each week to show my progress
--   Have a complete, function game that runs in Unity
+-   Have a complete, functional game that runs in Unity
 
 ### Constraints
 
