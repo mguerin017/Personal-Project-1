@@ -3,15 +3,17 @@
 ### Goals
 
 -   Complete the Unity Interactive Tutorials
+-   Complete additiona tutorials to gain a firm understanding of the program
+-   Create a simple game in Unity
 
 ### Boundaries / Scope
 
--   Step 1: Play & Edit Mode
--   Step 4: Prefab Power
+-   Tutorials and guides
+-   Completed Game
 
 ### Success criteria
 
--   Have a firm understanding of the basics of the Unity engine
+-   Have a decent understanding of how to use the Unity engine
 -   Screenshots and logs each week to show my progress
 
 ### Constraints
@@ -32,7 +34,7 @@
 
 Week:
 
--   1-3.      Step 1: Play & Edit Mode (2-3 hours a week)
--  4-6.      Step 2: Game Objects & Components (2-3 hours a week)
--  7-9.      Step 3: Tweaking Components (2-3 hours a week)
--  10-12. Step 4: Prefab Power (2-3 hours a week)
+-  1-3.      Complete Interactive Tutorial and some aditional tutorials (2-3 hours a week)
+-  4-6.      Work on personal game
+-  7-9.      Work on personal game
+-  10-12.    Work on personal game
